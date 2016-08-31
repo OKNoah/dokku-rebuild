@@ -1,5 +1,7 @@
 ## [Dokku](https://github.com/progrium/dokku) plugin to rebuild an app without a git push
 
+NOTICE: As of dokku v0.3.14, this functionality is included and this plugin is deprecated. Use the command dokku ps:rebuild [app-name] in the official dokku release.
+
 Commands
 --------
 ```
